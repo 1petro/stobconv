@@ -13,7 +13,7 @@ su
 ```
 3-if everything went fine u should see stobconv binary and workspace and sdk ,in workspace put ur script files and check if all has #!/system/bin/sh at first line! then execute stobconv --help 
 ```
-..stobconv --help
+./stobconv --help
 ```
 4-read instructions for how to use the binary then
 ```
